@@ -1,0 +1,19 @@
+# .gitignore
+
+# Environment variables
+.env
+.env.test
+
+# Node modules
+node_modules/
+
+# Coverage reports
+coverage/
+
+# Logs
+logs/
+*.log
+
+# Other
+.DS_Store
+
